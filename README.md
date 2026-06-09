@@ -1,6 +1,4 @@
-================================================================================
-                    THYROID PROJECT - README
-================================================================================
+==========  THYROID PROJECT - README  ==========
 
 PROJECT DESCRIPTION
 -------------------
@@ -14,7 +12,7 @@ PROJECT STRUCTURE
 Thyroid project/
 ├── app.py                 - Main Flask application file
 ├── requirements.txt       - Python dependencies
-├── README.txt            - This file
+├── README.md           - This file
 
 │
 ├── model/                - Directory containing pre-trained models
